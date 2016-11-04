@@ -32,8 +32,6 @@ This article shows how to export a SQL Server database to a [BACPAC](https://msd
 
 2. Open Management Studio and connect to your source database in Object Explorer.
 
-	![Export a data-tier application from the Tasks menu](./media/sql-database-cloud-migrate/MigrateUsingBACPAC01.png)
-
 3. Right-click the source database in the Object Explorer, point to **Tasks**, and click **Export Data-Tier Application…**
 
 	![Export a data-tier application from the Tasks menu](./media/sql-database-cloud-migrate/TestForCompatibilityUsingSSMS01.png)
